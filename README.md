@@ -34,4 +34,4 @@ Em princípio, não é necessário trabalhar com software instalado em seu próp
 
 
 
-(adaptado de r-ufsc.github.io - pagina do curso de R na UFSC - dezembro 2016)
+(versão original adaptada - de r-ufsc.github.io )
